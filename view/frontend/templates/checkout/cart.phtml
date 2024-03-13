@@ -1,4 +1,0 @@
-<?php
-    $blockTemplateFile = $block->getTemplateFile('Klaviyo_Reclaim::checkout/cart.phtml');
-?>
-<?= str_replace('<script', '<script data-breeze', $block->fetchView($blockTemplateFile)) ?>
