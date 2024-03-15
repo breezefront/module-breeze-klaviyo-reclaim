@@ -2,7 +2,7 @@
     "name": "swissup/module-breeze-klaviyo-reclaim",
     "description": "Klaviyo for Magento 2 Breeze Frontend Integration",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "OSL-3.0",
     "autoload": {
         "files": [
